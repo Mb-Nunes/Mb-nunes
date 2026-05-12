@@ -17,7 +17,8 @@
 ## ⚙ Tecnologias utilizadas
 - Python 🐍
 - SQLite3
-- Openpyxl
+- OpenPyXL
+- Excel (.xlsx)
 
 
 ## 📫 Contato
