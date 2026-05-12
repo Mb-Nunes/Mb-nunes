@@ -14,6 +14,11 @@
 
 ---
 
+## ⚙ Tecnologias utilizadas
+- Python 🐍
+- SQLite3
+- Openpyxl
+
 
 ## 📫 Contato
 
