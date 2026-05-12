@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Murilo
 
-<!--
-**Mb-Nunes/Mb-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação focado em Python e desenvolvimento de projetos  
+📊 Interessado em dados, automação e backend  
+🚀 Construindo meu portfólio no GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- 📚 Estudando programação e ciência de dados  
+- 🐍 Foco principal em Python  
+- 📈 Criando projetos práticos para aprendizado  
+- 🎯 Objetivo: estágio na área de tecnologia  
+
+---
+
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nunes-/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/murilopeixinh0)
+
+---
+
+## 📊 Status do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
