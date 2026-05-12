@@ -23,10 +23,4 @@
 
 ---
 
-## 📊 Status do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
----
-
 ⭐ Obrigado por visitar meu perfil!
