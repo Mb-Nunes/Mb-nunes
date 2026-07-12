@@ -18,6 +18,7 @@
 - Python 🐍
 - SQLite3
 - OpenPyXL
+- Pandas
 - Excel (.xlsx)
 
 
